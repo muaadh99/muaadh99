@@ -17,4 +17,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=muaadh99&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
+## Hacktobefest Badges 
+
 [![An image of @muaadh99's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muaadh99)](https://holopin.io/@muaadh99)
