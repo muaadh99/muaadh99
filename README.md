@@ -1,5 +1,32 @@
-# 💫 About Me:
-🔭 I’m currently working on Data privacy based MIS for child protection authority to manage orphanages as a Front End Developer.<br>🌱 I’m currently learning TypeScript<br>💬 Ask me about JavaScript, React.js or Frontend related tech<br>
+# 💫 About Me
+
+**Software Engineer** passionate about building secure, scalable, and intelligent systems.  
+**Cybersecurity & AI enthusiast** with hands-on experience in developing AI-driven security platforms and integrating machine learning models into real-world applications[1].
+
+---
+
+## Professional Summary
+
+- **Hands-on experience** in designing and deploying real-time systems using Python, React, Docker, and Elasticsearch.
+- **Developed and integrated machine learning models** and LLM-based pipelines into threat analysis platforms[1].
+- **Passionate about security automation, backend scalability, and defending against modern cyber threats**.
+- **Adept at working with cloud-native tools, CI/CD pipelines, and cybersecurity best practices**.
+- **Strong foundation in algorithms, data structures, and secure software development**[1].
+
+---
+
+## Interests
+
+- **Cybersecurity automation**
+- **AI-driven analytics**
+- **Building robust, privacy-focused applications**
+
+---
+
+## Ask Me About
+
+- **Software Engineering**
+- **Cyber Security**
 
 ---
 [![](https://visitcount.itsvg.in/api?id=muaadh99&icon=8&color=0)](https://visitcount.itsvg.in)
