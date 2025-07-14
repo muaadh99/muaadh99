@@ -1,7 +1,7 @@
 # 💫 About Me
 
 **Software Engineer** passionate about building secure, scalable, and intelligent systems.  
-**Cybersecurity & AI enthusiast** with hands-on experience in developing AI-driven security platforms and integrating machine learning models into real-world applications[1].
+**Cybersecurity & AI enthusiast** with hands-on experience in developing AI-driven security platforms and integrating machine learning models into real-world applications.
 
 ---
 
@@ -11,7 +11,7 @@
 - **Developed and integrated machine learning models** and LLM-based pipelines into threat analysis platforms[1].
 - **Passionate about security automation, backend scalability, and defending against modern cyber threats**.
 - **Adept at working with cloud-native tools, CI/CD pipelines, and cybersecurity best practices**.
-- **Strong foundation in algorithms, data structures, and secure software development**[1].
+- **Strong foundation in algorithms, data structures, and secure software development**.
 
 ---
 
