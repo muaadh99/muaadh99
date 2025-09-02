@@ -8,7 +8,7 @@
 ## Professional Summary
 
 - **Hands-on experience** in designing and deploying real-time systems using Python, React, Docker, and Elasticsearch.
-- **Developed and integrated machine learning models** and LLM-based pipelines into threat analysis platforms[1].
+- **Developed and integrated machine learning models** and LLM-based pipelines into threat analysis platforms.
 - **Passionate about security automation, backend scalability, and defending against modern cyber threats**.
 - **Adept at working with cloud-native tools, CI/CD pipelines, and cybersecurity best practices**.
 - **Strong foundation in algorithms, data structures, and secure software development**.
